@@ -15,3 +15,11 @@ $ git clone https://github.com/Lukm4n-xd/crack
 $ cd crack
 $ python run.py
 ```
+
+# bagi yang sudah install
+```
+ ## - Run di Termux :
+ $ cd crack
+ $ git pull
+ $ python run.py
+```
